@@ -1,0 +1,9 @@
+Open Testing and Measurement Bench for UHF RFID
+
+N. Barbot and Vinisha CV
+
+This project is an open testing and measurement bench allowing one to characterize the performance of any UHF RFID tag. The architecture is based on a vectorial generator and a real-time spectrum analyzer. Both instruments are controlled by a single script on a remote controller. The bench is able to extract the power on tag forward and power on tag reverse, the delta RCS and the read range of a UHF tag. This bench can offer similar functionalities compared to industrial solutions such as the Voyantic Tagformance Pro reader. All relevant design files will be released as open source to the community.
+
+Citing this work:
+
+N. Barbot and Vinisha CV, “Open Testing and Measurement Bench for UHF RFID,” in RFID-TA 2023, Aveiro, Portugal, Sep. 2023. 
